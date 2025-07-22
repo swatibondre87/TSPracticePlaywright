@@ -19,6 +19,8 @@ function empdetails([name,age]: [string, number]){
 }
 empdetails(['Swati', 37])
 
+
+//function return
 function empdetail() : [string,number]{
     return ['Swati', 37]
    
